@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Georgia, serif;
+  line-height: 1.5;
+}
+
+button {
+  padding:5px 1em;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+
+
+h1 {
+  margin: 1em 0
+}
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin-top:2em;
+}
+
+#titel, #auteur {
+  width: 15em
+}
+
+#taal {
+  width: 3em
+}
+
+input[type="submit"] {
+  width: 10em
+}
+
+input {
+  padding: 5px;
+  margin-bottom: 1.5em;
+}

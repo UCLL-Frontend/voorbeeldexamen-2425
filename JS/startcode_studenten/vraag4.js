@@ -1,1 +1,0 @@
-// hier komt de JS code voor vraag 4

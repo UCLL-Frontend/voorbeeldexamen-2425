@@ -10,7 +10,8 @@ Je kan je voor dit examendeel als volgt voorbereiden:
 - Ontleed de CSS van je eigen website, i.h.b. positionering en responsiveness
 - Maak [de oude praktijkexamens](HTML-CSS/opgave.md). In deze oefeningen komen heel wat aspecten over positionering en responsiveness aan bod.
 
-
+JavaScript
+========
 
 [Ga naar de opgave van het voorbeeldexamen JS](JS/opgave-JS.md).
 

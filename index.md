@@ -12,6 +12,8 @@ Je kan je voor dit examendeel als volgt voorbereiden:
 
 JavaScript
 ========
+Voor JavaScript zijn de examenopgaves van [22-23](JS/2223/readme.md) en 23-24 beschikbaar ([examen1](JS/2324/examen1/readme.md), [examen2](JS/2324/examen2/readme.md)). 
 
-[Ga naar de opgave van het voorbeeldexamen JS](JS/opgave-JS.md).
-
+LET OP
+=====
+De documenten die we hier delen zijn **voorbeelden**. Je krijgt van ons de examens zoals die vorige jaren aan de studenten gegeven werden. Op Toledo vind je informatie hoe het examen er DIT JAAR aan toe zal gaan. Dat kan anders zijn dan in deze voorbeelden. 
